@@ -1,2 +1,2 @@
 # odin_test
-Hello Odin!
+Hello Odin
